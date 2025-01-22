@@ -51,5 +51,23 @@ By leveraging patient case similarity detection using machine learning, healthca
 
 
 
+OUT PUT:-
 
+![image](https://github.com/user-attachments/assets/a6701d9d-e709-4351-ad06-9595f4ff96a2)
+
+
+![image](https://github.com/user-attachments/assets/5d9f40d8-fc43-47e8-b417-455ea07b8089)
+
+
+![image](https://github.com/user-attachments/assets/382d6a13-09fb-46e5-b950-03dd836b39ba)
+
+
+
+
+
+JNRID - JOURNAL OF NOVEL RESEARCH AND INNOVATIVE DEVELOPMENT ISSN Approved Journal No: 2984-8687 | Impact factor: 9.57
+
+
+
+![image](https://github.com/user-attachments/assets/fd1f15a7-f459-4dc9-b876-2cd060e375c8)
 
